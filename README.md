@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on: Software engineering projects with a focus on Blockchain.<br><br>👯 I’m looking to collaborate on: Tech projects, especially those involving Blockchain.<br><br>🤝 I’m looking for help with: Enhancing my software engineering skills.<br><br>🌱 I’m currently learning: Advanced software engineering techniques.<br><br>💬 Ask me about: My journey in Computer Science and Blockchain and how coding has become my therapeutic hobby<br><br>⚡ Fun fact: I'm also a part-time musician who plays the guitar.
+# 💫 About Me
+
+🔭 Working on blockchain infrastructure, smart contract audits, and protocol research.  
+
+👯 Open to collaborating on secure and decentralized Web3/DeFi projects.  
+
+🌱 Learning ZK cryptography and advanced audit techniques.  
+
+💬 Ask me about blockchain engineering and audit workflows.  
+
+⚡ Fun fact: I believe secure code powers true decentralization.
+
 
 
 ## 🌐 Socials:
